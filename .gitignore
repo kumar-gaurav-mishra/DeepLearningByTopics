@@ -171,3 +171,4 @@ cython_debug/
 .pypirc
 
 Datasets/mnist_train.csv
+CNN/emnist/*
